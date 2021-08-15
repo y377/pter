@@ -3,7 +3,7 @@ timezone: Asia/Shanghai
 lang: zh
 
 author:
-  name: 猴纸ip
+  name: "猴纸ip"
 # Build settings
 theme: minima
 plugins:
