@@ -9,5 +9,6 @@ plugins:
   - jekyll-feed
   - jekyll-spaceship
   - jekyll-seo-tag
+  - jekyll-admin
 
 
