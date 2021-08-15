@@ -1,1 +1,14 @@
+timezone: Asia/Shanghai
+
+lang: zh
+
+author:
+  name: 猴纸ip
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-spaceship
+  - jekyll-seo-tag
+
 
