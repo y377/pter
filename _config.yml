@@ -2,7 +2,7 @@ timezone: Asia/Shanghai
 
 lang: zh
 
-tittle: pt站列表
+tittle: "pt站列表"
 
 theme: minima
 plugins:
