@@ -5,7 +5,7 @@
 |:----:| :----  | :----:  |
 | 1 | [https://hdchina.org](https://hdchina.org) | 0 |
 | 2 | [https://hdsky.me](https://hdsky.me) | 0  |
-| 3 | [https://pt.hd4fans.org](https://pt.hd4fans.org) | 只有管理员及以上的用户才能发送邀请 |
+| 3 | [https://pt.hd4fans.org](https://pt.hd4fans.org) | ≥ `Administrator` |
 | 4 | [https://kp.m-team.cc](https://kp.m-team.cc) | 0 |
 | 5 | [https://pterclub.com](https://pterclub.com) |0|
 | 6 | [https://pthome.net](https://pthome.net) |0|
