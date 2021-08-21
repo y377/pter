@@ -4,9 +4,9 @@
 |编号|名称|邀请剩余/发送权限|
 |:----:|:----:  | :----:  |
 | 1 | [https://hdchina.org](https://hdchina.org) | 0 |
-| 2 | [https://hdsky.me](https://hdsky.me) |:white_check_mark:|
-| 3 | [https://pt.hd4fans.org](https://pt.hd4fans.org) |`只有管理员及以上的用户才能发送邀请`|
-| 4 | [https://kp.m-team.cc](https://kp.m-team.cc) |:white_check_mark:|
+| 2 | [https://hdsky.me](https://hdsky.me) | 0  |
+| 3 | [https://pt.hd4fans.org](https://pt.hd4fans.org) | 只有管理员及以上的用户才能发送邀请 |
+| 4 | [https://kp.m-team.cc](https://kp.m-team.cc) | 0 |
 | 5 | [https://pterclub.com](https://pterclub.com) |0|
 | 6 | [https://pthome.net](https://pthome.net) |0|
 | 7 | [https://et8.org](https://et8.org) |只有上校及以上的用户才能发送邀请|
