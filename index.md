@@ -10,7 +10,7 @@
 | 5 | [https://pterclub.com](https://pterclub.com) |:white_check_mark:|
 | 6 | [https://pthome.net](https://pthome.net) |:white_check_mark:|
 | 7 | [https://et8.org](https://et8.org) |:white_check_mark:|
-| / | - |:white_check_mark:|
-| / | - |:white_check_mark:|
 
+> 需要邀请请在`issues`下面附上邮箱+注册时的用户名，并说明需要哪个站？
+> 如果有，我就会发，未发表示暂无发送邀请权限，或者网站关闭发送权限
 
