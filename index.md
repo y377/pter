@@ -1,3 +1,4 @@
+{% include default.html %}
 #### BETA测试版
 
 |编号|PT站名称|邀请剩余/发送权限|
