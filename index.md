@@ -2,7 +2,7 @@
 
 
 |编号|名称|邀请剩余/发送权限|
-|:----:|----:  | :----:  |
+|:----:| :----  | :----:  |
 | 1 | [https://hdchina.org](https://hdchina.org) | 0 |
 | 2 | [https://hdsky.me](https://hdsky.me) | 0  |
 | 3 | [https://pt.hd4fans.org](https://pt.hd4fans.org) | 只有管理员及以上的用户才能发送邀请 |
