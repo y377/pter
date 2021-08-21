@@ -1,4 +1,8 @@
-{% include default.html %}
+---
+---
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
+
+
 #### BETA测试版
 
 |编号|PT站名称|邀请剩余/发送权限|
