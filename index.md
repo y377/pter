@@ -16,4 +16,4 @@
 
 #### 更多功能，敬请期待
 
-:email:  `csever#qq.com`  :cn: 
+**:email:**  **`csever#qq.com`**
