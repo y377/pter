@@ -1,6 +1,6 @@
 ---
 title: "做一个好玩的看片神器"
-layout: page
+layout: default
 ---
 
 #### BETA测试版
