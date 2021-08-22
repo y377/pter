@@ -16,4 +16,4 @@
 
 #### 更多功能，敬请期待
 
-联系:telephone: 12345678
+联系:mail: csever@qq.com
