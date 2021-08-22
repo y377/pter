@@ -10,5 +10,6 @@ plugins:
   - jekyll-spaceship
   - jekyll-seo-tag
   - jekyll-admin
+  - jemoji
 
 
