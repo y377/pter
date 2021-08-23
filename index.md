@@ -13,4 +13,4 @@
 ----------------
 
 > **更多功能，敬请期待
-[分轨音乐测试](/_data/music_fengui.m3u)
+[分轨音乐测试](./data/music_fengui.m3u)
