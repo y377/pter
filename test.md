@@ -1,0 +1,93 @@
+#EXTM3U  name="cn-itv"
+#EXTINF:-1, CCTV1-HD 
+http://route.yzys.cc:8808/udp/239.49.8.129:6000
+#EXTINF:-1, CCTV2-HD 
+http://route.yzys.cc:8808/udp/239.49.8.130:6000
+#EXTINF:-1, CCTV3-HD 
+http://route.yzys.cc:8808/udp/239.49.9.31:6000
+#EXTINF:-1, CCTV4-HD 
+http://route.yzys.cc:8808/udp/239.49.8.131:6000
+#EXTINF:-1, CCTV5-HD 
+http://route.yzys.cc:8808/udp/239.49.9.32:6000
+#EXTINF:-1, CCTV5+HD 
+http://route.yzys.cc:8808/udp/239.49.8.137:6000
+#EXTINF:-1, CCTV6-HD 
+http://route.yzys.cc:8808/udp/239.49.9.33:6000
+#EXTINF:-1, CCTV8-HD 
+http://route.yzys.cc:8808/udp/239.49.9.34:6000
+#EXTINF:-1, CCTV9-HD
+http://route.yzys.cc:8808/udp/239.49.8.133:6000
+#EXTINF:-1, CCTV10-HD 
+http://route.yzys.cc:8808/udp/239.49.8.134:6000
+#EXTINF:-1, CCTV12-HD 
+http://route.yzys.cc:8808/udp/239.49.8.135:6000
+#EXTINF:-1, CCTV13-HD
+http://route.yzys.cc:8808/udp/239.49.9.43:6000
+#EXTINF:-1, CCTV14-HD 
+http://route.yzys.cc:8808/udp/239.49.8.136:6000
+#EXTINF:-1, CCTV16-HD 
+http://route.yzys.cc:8808/udp/239.49.9.58:6000
+#EXTINF:-1, CCTV16-4K 
+http://route.yzys.cc:8808/udp/239.49.9.59:6000
+#EXTINF:-1, CCTV17-HD 
+http://route.yzys.cc:8808/udp/239.49.8.132:6000
+#EXTINF:-1, 央视台球HD 
+http://route.yzys.cc:8808/udp/239.49.9.22:6000
+#EXTINF:-1, 金鹰卡通HD 
+http://route.yzys.cc:8808/udp/239.49.9.23:6000
+#EXTINF:-1, 江苏卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.138:6000
+#EXTINF:-1, 江苏城市HD 
+http://route.yzys.cc:8808/udp/239.49.9.35:6000
+#EXTINF:-1, 江苏综艺HD 
+http://route.yzys.cc:8808/udp/239.49.9.36:6000
+#EXTINF:-1, 江苏公共新闻HD 
+http://route.yzys.cc:8808/udp/239.49.9.40:6000
+#EXTINF:-1, 江苏教育HD 
+http://route.yzys.cc:8808/udp/239.49.9.42:6000
+#EXTINF:-1, 广西卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.209:6000
+#EXTINF:-1, 天津卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.148:6000
+#EXTINF:-1, 浙江卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.139:6000
+#EXTINF:-1, 重庆卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.149:6000
+#EXTINF:-1, 辽宁卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.173:6000
+#EXTINF:-1, 海南卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.212:6000
+#EXTINF:-1, 四川卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.184:6000
+#EXTINF:-1, 江西卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.185:6000
+#EXTINF:-1, 东南卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.186:6000
+#EXTINF:-1, 吉林卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.187:6000
+#EXTINF:-1, 河北卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.188:6000
+#EXTINF:-1, 东方卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.140:6000
+#EXTINF:-1, 北京卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.141:6000
+#EXTINF:-1, 湖南卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.142:6000
+#EXTINF:-1, 广东卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.143:6000
+#EXTINF:-1, 黑龙江卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.144:6000
+#EXTINF:-1, 深圳卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.145:6000
+#EXTINF:-1, 云南卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.227:6000
+#EXTINF:-1, 山东卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.146:6000
+#EXTINF:-1, 贵州卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.174:6000
+#EXTINF:-1, 安徽卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.204:6000
+#EXTINF:-1, 湖北卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.147:6000
+#EXTINF:-1, 河南卫视HD 
+http://route.yzys.cc:8808/udp/239.49.8.197:6000
