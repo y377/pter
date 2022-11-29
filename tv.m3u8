@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, CCTV1-HD 
+#EXTINF:-1, CCTV1-HD
 http://route.yzys.cc:8808/udp/239.49.8.129:6000
-#EXTINF:-1, CCTV2-HD 
+#EXTINF:-1, CCTV2-HD
 http://route.yzys.cc:8808/udp/239.49.8.130:6000
-#EXTINF:-1, CCTV3-HD 
+#EXTINF:-1, CCTV3-HD
 http://route.yzys.cc:8808/udp/239.49.9.31:6000
 #EXTINF:-1, CCTV4-HD 
 http://route.yzys.cc:8808/udp/239.49.8.131:6000
