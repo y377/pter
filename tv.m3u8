@@ -1,4 +1,4 @@
-#EXTM3U  name="cn-itv"
+#EXTM3U
 #EXTINF:-1, CCTV1-HD 
 http://route.yzys.cc:8808/udp/239.49.8.129:6000
 #EXTINF:-1, CCTV2-HD 
