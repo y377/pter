@@ -1,5 +1,5 @@
 url: "https://pt.beep.vip" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/pter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title: 'pter'
 
@@ -8,7 +8,6 @@ plugins:
   - jekyll-feed
   - jekyll-spaceship
   - jekyll-seo-tag
-  - jekyll-admin
   - jemoji
 
 
