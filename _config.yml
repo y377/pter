@@ -1,6 +1,5 @@
-timezone: Asia/Shanghai
-
-lang: zh
+url: "https://pt.beep.vip" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title: 'pter'
 
