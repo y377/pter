@@ -1,4 +1,4 @@
-|   option  |   value   |   描述    |
+|   option  |   value 值值 值 值 值    |   描述    |
 | :------------ | :------------: | :------------ |
 | tocSelector  | `.js-toc`  | toc选择器,在哪里呈现目录  |
 | tocElement   | element  | toc元素,或者，您可以改为传入 DOM 节点 |
