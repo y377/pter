@@ -46,7 +46,7 @@
 
 ---------------
 
-kramdown table Testing
+## kramdown table Testing
 
 |-----------------+------------+-----------------+----------------|
 | Default aligned |Left aligned| Center aligned  | Right aligned  |
