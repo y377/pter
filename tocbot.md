@@ -5,7 +5,7 @@
 | contentSelector  | `.js-toc-content` | 内容选择器,在哪里抓取标题来构建目录  |
 | contentElement  | element  | 内容元素,或者，您可以改为传入 DOM 节点  |
 | headingSelector  | 'h1, h2, h3'  | 在 contentSelector 元素中抓取哪些标题  |
-|ignoreSelector   | `".js-toc-ignore"`  | 匹配 ignoreSelector 的标题将被跳过  |
+|ignoreSelector   | `.js-toc-ignore`  | 匹配 ignoreSelector 的标题将被跳过  |
 | hasInnerContainers  |false   | 对于内容中相对或绝对定位容器内的标题  |
 | linkClass  | `'toc-link'`  |  添加到链接的主类 |
 | extraLinkClasses  | `''`  | 添加到链接的额外类  |
