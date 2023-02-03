@@ -1,5 +1,5 @@
 | option  | value  | description  |
-| :------------ | :------------ | :------------: |
+| :------------ | :------------ | :------------ |
 | tocSelector  | `.js-toc`  | toc选择器,在哪里呈现目录  |
 |tocElement   | element  | toc元素,或者，您可以改为传入 DOM 节点 |
 | contentSelector  | `.js-toc-content`  | 内容选择器,在哪里抓取标题来构建目录  |
@@ -33,10 +33,10 @@
 | scrollContainer  | null  | 如果有固定的文章滚动容器，设置计算标题的偏移量  |
 | skipRendering  | false  | 如果ToC DOM已经被外部系统渲染，则阻止它的渲染 |
 | headingLabelCallback  | false  | 更改标题标签的可选回调。<br> 例如，它可以用于减少并在您认为太长的多行标题上放置省略号。<br> 每次解析标题时调用。 需要一个字符串并返回修改后的标签以显示。<br> 此外，可以在标题上使用属性 `data-heading-label` 来指定<br>在 TOC 中使用的较短的字符串。<br>`function (string) => string` |
-| ignoreHiddenElements  | false  | ignore headings that are hidden in DOM  |
-| headingObjectCallback  | null  | Optional callback to modify properties of parsed headings. The heading element is passed in node parameter and information parsed by default parser is provided in obj parameter. Function has to return the same or modified obj. The heading will be excluded from TOC if nothing is returned.`function (object, HTMLElement) => object / void`  |
-| basePath  | `''`  | Set the base path, useful if you use a `base` tag in `head`  |
-| disableTocScrollSync  | false  | Only takes affect when `tocSelector` is scrolling, keep the toc scroll position in sync with the content  |
-| tocScrollOffset  | 0  | Offset for the toc scroll (top) position when scrolling the page. Only effective if `disableTocScrollSync` is false.  |
+| ignoreHiddenElements  | false  | 忽略隐藏在 DOM 中的标题 |
+| headingObjectCallback  | null  | 可选的回调来修改已解析标题的属性。<>br在节点参数中传递标题元素，在obj参数中提供默认解析器解析的信息。<br>函数必须返回相同或修改过的obj。<br>如果没有返回，则标题将从TOC中排除。<br>`function (object, HTMLElement) => object | void` |
+| basePath  | `''`  | 设置基本路径，如果你在' head '中使用' base '标签，这很有用 |
+| disableTocScrollSync  | false  | 只在`tocSelector`滚动时生效，保持toc滚动位置与内容同步。  |
+| tocScrollOffset  | 0  | 当滚动页面时，toc滚动（顶部）位置的偏移。只有在`disableTocScrollSync`为false时才有效。 |
 
 ---------------
