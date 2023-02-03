@@ -43,3 +43,20 @@
 | basePath  | `''`  | Set the base path, useful if you use a `base` tag in `head`  |
 | disableTocScrollSync  | false  | Only takes affect when `tocSelector` is scrolling, keep the toc scroll position in sync with the content  |
 | tocScrollOffset  | 0  | Offset for the toc scroll (top) position when scrolling the page. Only effective if `disableTocScrollSync` is false.  |
+
+---------------
+
+kramdown table Testing
+
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
