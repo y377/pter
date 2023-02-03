@@ -9,13 +9,13 @@
 | hasInnerContainers  |false   | 对于内容中相对或绝对定位容器内的标题  |
 | linkClass  | `'toc-link'`  |  添加到链接的主类 |
 | extraLinkClasses  | `''`  | 添加到链接的额外类  |
-| activeLinkClass  | `'is-active-link'`  | 要添加到活动链接的类，该链接对应于页面上最顶部的标题 |
-| listClass | `'toc-list'`  | 要添加到列表中的主类  |
-| extraListClasses | `"`  | 要添加到列表中的额外类  |
-| isCollapsedClass  | `'is-collapsed'`  | 当列表应该折叠时添加的类 |
-| collapsibleClass  | `'is-collapsible'`  | 当列表应该能够折叠但不一定折叠时添加的类 |
+| activeLinkClass  | `is-active-link`  | 要添加到活动链接的类，该链接对应于页面上最顶部的标题 |
+| listClass | `toc-list`  | 要添加到列表中的主类  |
+| extraListClasses | '' | 可添加到列表中的额外类 |
+| isCollapsedClass  | `is-collapsed`  | 当列表应该折叠时添加的类 |
+| collapsibleClass  | `is-collapsible`  | 当列表应该能够折叠但不一定折叠时添加的类 |
 | listItemClass  | `'toc-list-item'`  | 要添加到列表项的类 |
-| activeListItemClass  | `'is-active-li'`  | 要添加到活动列表项的类 |
+| activeListItemClass  | `is-active-li`  | 要添加到活动列表项的类 |
 | collapseDepth  | 0  |  有多少标题级别不应折叠。例如，数字 6 将显示所有内容，因为只有 6 个标题级别，数字 0 将全部折叠。当您滚动到其中的标题时，隐藏的部分将打开和关闭。 |
 | scrollSmooth  | true  | 启用平滑滚动 |
 | scrollSmoothDuration  | 420  | 平滑滚动持续时间  |
@@ -24,8 +24,8 @@
 | headingsOffset  | 1  | 标题与文档顶部之间的标题偏移量(这意味着较小的调整) |
 | throttleTimeout  | 50  | 事件触发之间的超时，以确保它不会太快(出于性能原因)  |
 | positionFixedSelector  | null  | 元素中添加positionFixedClass  |
-| positionFixedClass  | `'is-position-fixed'`  | 添加固定位置类，使侧边栏在向下滚动超过 fixedSidebarOffset 后固定 |
-| fixedSidebarOffset  | `'auto'`  | fixedSidebarOffset 可以是任何数字，但默认情况下设置为 auto，它将 fixedSidebarOffset 设置为边栏元素的 offsetTop 从文档顶部开始  |
+| positionFixedClass  | `is-position-fixed`  | 添加固定位置类，使侧边栏在向下滚动超过 fixedSidebarOffset 后固定 |
+| fixedSidebarOffset  | `auto`  | fixedSidebarOffset 可以是任何数字，但默认情况下设置为 auto，它将 fixedSidebarOffset 设置为边栏元素的 offsetTop 从文档顶部开始  |
 | includeHtml  | false  | includeHtml 可以设置为 true 以包含来自标题节点的 HTML 标记，而不是仅包含 textContent  |
 | includeTitleTags  | false  | includeTitleTags 自动设置链接的 html 标题标签以匹配标题。这对于 SEO 目的或截断标题时很有用 |
 | onClick  | `function (e) {}`  | onclick 函数应用于目录中的所有链接。将以事件作为第一个参数调用，这可用于停止、传播、防止默认或执行操作 |
