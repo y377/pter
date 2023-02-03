@@ -1,17 +1,17 @@
-| option  | value  | description  |
-| :------------ | :------------ | :------------ |
+|   option  |   value   |   描述    |
+| :------------ | :------------: | :------------ |
 | tocSelector  | `.js-toc`  | toc选择器,在哪里呈现目录  |
-|tocElement   | element  | toc元素,或者，您可以改为传入 DOM 节点 |
-| contentSelector  | `.js-toc-content`  | 内容选择器,在哪里抓取标题来构建目录  |
+| tocElement   | element  | toc元素,或者，您可以改为传入 DOM 节点 |
+| contentSelector  | `.js-toc-content` | 内容选择器,在哪里抓取标题来构建目录  |
 | contentElement  | element  | 内容元素,或者，您可以改为传入 DOM 节点  |
 | headingSelector  | 'h1, h2, h3'  | 在 contentSelector 元素中抓取哪些标题  |
-|ignoreSelector   | `'.js-toc-ignore'`  | 匹配 ignoreSelector 的标题将被跳过  |
+|ignoreSelector   | `".js-toc-ignore"`  | 匹配 ignoreSelector 的标题将被跳过  |
 | hasInnerContainers  |false   | 对于内容中相对或绝对定位容器内的标题  |
 | linkClass  | `'toc-link'`  |  添加到链接的主类 |
 | extraLinkClasses  | `''`  | 添加到链接的额外类  |
 | activeLinkClass  | `'is-active-link'`  | 要添加到活动链接的类，该链接对应于页面上最顶部的标题 |
-| listClass  | `'toc-list'`  | 要添加到列表中的主类  |
-|extraListClasses   | `"`  | 要添加到列表中的额外类  |
+| listClass | `'toc-list'`  | 要添加到列表中的主类  |
+| extraListClasses | `"`  | 要添加到列表中的额外类  |
 | isCollapsedClass  | `'is-collapsed'`  | 当列表应该折叠时添加的类 |
 | collapsibleClass  | `'is-collapsible'`  | 当列表应该能够折叠但不一定折叠时添加的类 |
 | listItemClass  | `'toc-list-item'`  | 要添加到列表项的类 |
@@ -20,7 +20,7 @@
 | scrollSmooth  | true  | 启用平滑滚动 |
 | scrollSmoothDuration  | 420  | 平滑滚动持续时间  |
 |scrollSmoothOffset  | 0  | 平滑滚动偏移  |
-|scrollEndCallback   | `function (e) {}`  | 滚动结束回调  |
+|scrollEndCallback   | `function (e) {}` | 滚动结束回调  |
 | headingsOffset  | 1  | 标题与文档顶部之间的标题偏移量(这意味着较小的调整) |
 | throttleTimeout  | 50  | 事件触发之间的超时，以确保它不会太快(出于性能原因)  |
 | positionFixedSelector  | null  | 元素中添加positionFixedClass  |
@@ -38,5 +38,3 @@
 | basePath  | `''`  | 设置基本路径，如果你在' head '中使用' base '标签，这很有用 |
 | disableTocScrollSync  | false  | 只在`tocSelector`滚动时生效，保持toc滚动位置与内容同步。  |
 | tocScrollOffset  | 0  | 当滚动页面时，toc滚动（顶部）位置的偏移。只有在`disableTocScrollSync`为false时才有效。 |
-
----------------
