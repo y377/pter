@@ -32,7 +32,7 @@
 | orderedList  | true  | orderedList 可以设置为 false 以生成无序列表 (ul) 而不是有序列表 (ol) |
 | scrollContainer  | null  | 如果有固定的文章滚动容器，设置计算标题的偏移量  |
 | skipRendering  | false  | 如果ToC DOM已经被外部系统渲染，则阻止它的渲染 |
-| headingLabelCallback  | false  | 更改标题标签的可选回调。<br> 例如，它可以用于减少并在您认为太长的多行标题上放置省略号。<br> 每次解析标题时调用。 需要一个字符串并返回修改后的标签以显示。<br> 此外，可以在标题上使用属性 `data-heading-label` 来指定<br>在 TOC 中使用的较短的字符串。<br>函数（字符串）=> 字符串 |
+| headingLabelCallback  | false  | 更改标题标签的可选回调。<br> 例如，它可以用于减少并在您认为太长的多行标题上放置省略号。<br> 每次解析标题时调用。 需要一个字符串并返回修改后的标签以显示。<br> 此外，可以在标题上使用属性 `data-heading-label` 来指定<br>在 TOC 中使用的较短的字符串。<br>`function (string) => string` |
 | ignoreHiddenElements  | false  | ignore headings that are hidden in DOM  |
 | headingObjectCallback  | null  | Optional callback to modify properties of parsed headings. The heading element is passed in node parameter and information parsed by default parser is provided in obj parameter. Function has to return the same or modified obj. The heading will be excluded from TOC if nothing is returned.`function (object, HTMLElement) => object / void`  |
 | basePath  | `''`  | Set the base path, useful if you use a `base` tag in `head`  |
