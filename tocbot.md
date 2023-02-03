@@ -9,7 +9,7 @@
 | `hasInnerContainers` |false   | 对于内容中相对或绝对定位容器内的标题  |
 | `linkClass` | `'toc-link'`  |  添加到链接的主类 |
 | `extraLinkClasses` | `''`  | 添加到链接的额外类  |
-| activeLinkClass  | `is-active-link`  | 要添加到活动链接的类，该链接对应于页面上最顶部的标题 |
+| `activeLinkClass` | `is-active-link`  | 要添加到活动链接的类，该链接对应于页面上最顶部的标题 |
 | `listClass` | `toc-list`  | 要添加到列表中的主类  |
 | `extraListClasses` | '' | 可添加到列表中的额外类 |
 | `isCollapsedClass`  | `is-collapsed`  | 当列表应该折叠时添加的类 |
