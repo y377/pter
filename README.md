@@ -1,2 +1,1 @@
-#### 当前比较简单，欢迎提交更多需求和建议
-:cn:
+![Y377's GitHub stats](https://github-readme-stats.vercel.app/api?username=y377&show_icons=true&theme=radical)
